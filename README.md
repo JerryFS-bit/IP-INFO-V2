@@ -10,8 +10,8 @@ python3 ip-infov2.py
 ~~~
 
 * Modo de uso
-    * Informacion sobre una IP en especifico -> __python3 ip-info.py 8.8.8.8__
-    * Informacion acerca de tu direccion IP ACTUAL -> __python3 ip-info.py myip__
+    * Informacion sobre una IP en especifico -> __ip-infov2.py 8.8.8.8__
+    * Informacion acerca de tu direccion IP ACTUAL -> __ip-infov2.py myip__
 
 
 ![Texto alternativo](/image/image-ip-info-v2.png)
