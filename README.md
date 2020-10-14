@@ -3,10 +3,10 @@ Despliega información importante sobre la dirección IP objetivo.
 
 * instalación en Linux
 ~~~
-git clone https://github.com/JerryFS-bit/IP-INFO.git
-cd IP-INFO
-pip install -r requirements.txt
-python3 ip-info.py
+git clone https://github.com/JerryFS-bit/IP-INFO-V2.git
+cd IP-INFO-V2
+pip3 install -r requirements.txt
+python3 ip-infov2.py
 ~~~
 
 * Modo de uso
