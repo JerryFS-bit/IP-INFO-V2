@@ -14,4 +14,4 @@ python3 ip-info.py
     * Informacion acerca de tu direccion IP ACTUAL -> __python3 ip-info.py myip__
 
 
-![Texto alternativo](/image/image-ip-info.png)
+![Texto alternativo](/image/image-ip-info-v2.png)
