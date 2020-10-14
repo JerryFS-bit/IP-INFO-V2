@@ -1,4 +1,4 @@
-# IP-INFO
+# IP-INFO V2
 Despliega información importante sobre la dirección IP objetivo.
 
 * instalación en Linux
